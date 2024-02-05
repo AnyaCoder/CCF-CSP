@@ -1,4 +1,5 @@
 # 读取角色数量、角色关联数量、待检查的操作数量
+# http://118.190.20.162/view.page?gpid=T146
 n, m, q = map(int, input().split())
 
 # 读取角色信息
