@@ -1,4 +1,17 @@
 # http://118.190.20.162/view.page?gpid=T131
+
+"""
+# 我的答案:
+Neuron 0: -65.000 and 30.0
+Neuron 0: -35.616 and 30.0
+
+# 标准答案:
+-35.608 -35.608
+2 2
+
+就你妈离谱
+
+"""
 from decimal import getcontext, Decimal
 
 getcontext().prec = 17  # 设置全局精度为小数点后16位
